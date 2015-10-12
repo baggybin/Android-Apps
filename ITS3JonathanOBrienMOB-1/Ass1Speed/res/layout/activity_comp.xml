@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Comp" >
+    
+    
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        
+         >
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="15dip"
+        android:src="@drawable/ic_launcher" />
+
+    <TextView
+        android:id="@+id/calc_text"
+        android:layout_width="223dp"
+        android:layout_height="match_parent"
+        android:paddingLeft="16dip"
+        android:paddingTop="34dip"
+        android:text="@string/app_name"
+        android:textColor="@color/red"
+        android:textIsSelectable="false"
+        android:textSize="23sp" />
+    
+        </LinearLayout>
+    
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:paddingTop="5dip"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/end_calc"
+            android:layout_width="100dip"
+            android:layout_height="match_parent"
+            android:text="@string/end_calc" />
+
+        <Button
+            android:id="@+id/notification"
+            android:layout_width="100dip"
+            android:layout_marginLeft="85dip"
+            android:layout_height="wrap_content"
+            android:text="@string/notify" />
+        
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/prev_results"
+        android:layout_width="288dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="3dip"
+        android:textColor="@color/red"
+        android:text="@string/previous_results" />
+
+    <ListView
+        android:id="@+id/resultsListView"
+        android:layout_width="fill_parent"
+        android:layout_height="340dp" >
+    </ListView>
+
+</LinearLayout>

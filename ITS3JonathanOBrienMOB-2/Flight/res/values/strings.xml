@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flight</string>
+    <string name="word_departure">Departure</string>
+    <string name="word_return">Return</string>
+    <string name="word_email">Email</string>
+    
+    
+    <string name="start_again">Start Again</string>
+    <string name="change_date">Change Date</string>
+    
+    <string name="submit">Submit!</string>
+    <string name="county">County</string>
+    <string name="email_confirmation">Email Confirmation?" "</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="from">From</string>
+    <string name="departure">From ":"</string>
+    <string name="arrival">To ":"</string>
+    <string name="type">Type</string>
+    <string name="single">Single</string>
+    <string name="enter">Enter</string>
+    <string name="ret">Return</string>
+    <string name="adult">No. Adults</string>
+    <string name="children">No. Children</string>
+    <string name="child_under">Child under 2</string>
+    <string name="single_or_ret">Single or Return</string>
+    <string name="entered_adults">Entered Adults :" "</string>
+    <string name="entered_children">Entered Children :" "</string>
+    <string name="entered_name">Entered Name :" "</string>
+    <string name="please_enter_card_no">Please Enter card no.</string>
+    <string name="mastercard_auth">MasterCard Authorized!</string>
+    <string name="visacard_auth">VisaCard Authorized</string>
+    <string name="invalid_not_auth">Invalid Not Authorized!</string>
+    <string name="at_least_one_adult">At least one Adult must be entered! </string>
+    <string name="title_activity_date">Date</string>
+    <string name="choose_date_choice">Flight Date Entry</string>
+    <string name="please_enter_required">Please Enter Required Details!</string>
+    <string name="depart">Departure Date</string>
+    <string name="arrival_date">Arrival Date</string>
+    <string name="select">select</string>
+    <string name="return_date">Return Date</string>
+    <string name="dep_times">Departure Time</string>
+    <string name="ret_times">Return Time</string>
+    <string name="support">Support</string>
+    <string name="seven_am">7 am</string>
+    <string name="seven_pm">7 pm</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="title_activity_passanger_entry">PassangerEntry</string>
+    <string name="visa_card">Visa Card</string>
+    <string name="master_card">Master Card</string>
+    <string name="title_activity_passanger_address_entry2">PassangerAddressEntry2</string>
+    <string name="title_activity_confirmation">Confirmation</string>
+    <string name="price">Price</string>
+    <string name="total">Total</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="show">Show</string>
+    <string name="first_last_name">Fistname Lastname</string>
+    <string name="home_add_entry_form">Home Address Entry Form</string>
+    <string name="house_name_no_apt">House Name/No/Apt</string>
+    <string name="street">Street</string>
+    <string name="town_city">Town,City</string>
+    <string name="title_activity_booking_details">BookingDetails</string>
+    <string name="title_activity_previous_booking">PreviousBooking</string>
+    <string name="context_menu">Context Menu</string>
+
+</resources>

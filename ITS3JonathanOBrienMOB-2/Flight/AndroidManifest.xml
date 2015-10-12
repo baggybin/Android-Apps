@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jonathan.flight"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.jonathan.flight.MainFlight"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="nosensor"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="adjustResize" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.jonathan.flight.Date"
+            android:label="@string/title_activity_date"
+            android:screenOrientation="nosensor"
+            android:configChanges="screenSize|orientation"
+            
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.jonathan.flight.VarObjectStore"
+            android:label="@string/title_activity_date"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.jonathan.flight.PassangerEntry"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/title_activity_passanger_entry"
+            android:screenOrientation="nosensor"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.jonathan.flight.PassangerAddressEntry2"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/title_activity_passanger_address_entry2"
+            android:screenOrientation="nosensor" >
+        </activity>
+        <activity
+            android:name="com.jonathan.flight.Confirmation"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/title_activity_confirmation"
+            android:screenOrientation="nosensor"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.jonathan.flight.BookingDetails"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/title_activity_booking_details"
+            android:screenOrientation="nosensor"
+            android:theme="@android:style/Theme.NoTitleBar" >
+        </activity>
+        <activity
+            android:name="com.jonathan.flight.PreviousBooking"
+             android:screenOrientation="nosensor"
+            android:configChanges="screenSize|orientation"
+            android:label="@string/title_activity_previous_booking" >
+        </activity>
+    </application>
+
+</manifest>

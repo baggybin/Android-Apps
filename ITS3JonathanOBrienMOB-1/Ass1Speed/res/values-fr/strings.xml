@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ass1Speed</string>
+    <string name="action_settings">paramètres</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speed">Vitesse :</string>
+    <string name="weight">Poids :</string>
+    <string name="speedhint">heure kilomètres</string>
+    <string name="weighthint">Kg</string>
+    <string name="calc">Calculer</string>
+    <string name="email">Soutenir</string>
+    <string name="title_activity_comp">Comp</string>
+    <string name="end_calc">Arrière</string>
+    <string name="previous_results">Précédent Résultats</string>
+    <string name="Ass1_Speed">Ass1Speed</string>
+    <string name="previous_result">Précédent</string>
+    <string name ="notify">Informer</string>
+    <string name ="exit">Sortie  </string>
+    <string name ="Bus">Bus</string>
+    <string name ="MotorBike">Moto</string>
+    <string name ="vchoice">Choix du véhicule</string>
+    <string name ="car">Voiture</string>
+    <string name ="truck">Camion</string>
+    <string name = "entered_speed">EVitesse entré "= " </string>   
+    <string name = "entered_weight">Poids entré "= "</string>
+    <string name = "selected">" "sélectionné" "</string>
+    <string name ="support">Soutenir</string>
+    <string name = "support_for">Prise en charge de Ass1Speed sur Android</string>
+    <string name = "previous_result_was">Résultat précédent était" "</string>
+    <string name = "meters">Mètres</string>
+    <string name ="ok">Bien</string>
+    
+    <string name="zero_error">S"'"l vous plaît entrer la vitesse et le poids</string>
+    
+    <string name ="new_event">Nouvel événement ": "Ass1Speed </string>
+    <string name ="compare_online">Comparer à une calculations en ligne</string>
+    <string name = "joules">Joules":"</string>
+    <string name = "Spat_calc">Spat calculatrice</string>
+    
+    <string name = "equiv_free_fall">équivalente hauteur de chute libre": "</string>
+    <string name = "time_till_impact">Temps jusqu"'"à l"'"impact" : "</string>
+    <string name = "energy_at_impact">l"'"énergie lors de l"'"impact" : "</string>
+    <string name = "seconds">Seconde</string>
+    
+    <string name = "time">Temps</string>
+    <string name = "energy">énergie</string>
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>

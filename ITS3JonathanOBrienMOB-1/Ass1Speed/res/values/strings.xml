@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ass1Speed</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speed">Speed :</string>
+    <string name="weight">Weight :</string>
+    <string name="speedhint">kilometers hour</string>
+    <string name="weighthint">kilograms</string>
+    <string name="calc">Calculate</string>
+    <string name="email">Support</string>
+    <string name="title_activity_comp">Comp</string>
+    <string name="end_calc">Back</string>
+    <string name="previous_results">Previous Results</string>
+    <string name="Ass1_Speed">Ass1Speed</string>
+    <string name="previous_result">Previous</string>
+    <string name="notify">Notify</string>
+    <string name="exit">Exit    </string>
+    <string name="Bus">Bus</string>
+    <string name="MotorBike">MotorBike</string>
+    <string name="vchoice">Vehicle Choice</string>
+    <string name="car">Car</string>
+    <string name="truck">Truck</string>
+    <string name="entered_speed">Entered Speed "= " </string>
+    <string name="entered_weight">Entered Weight "= "</string>
+    <string name="selected">" "Selected" "</string>
+    <string name="support">Support</string>
+    <string name="support_for">Support for Ass1Speed on Android</string>
+    <string name="previous_result_was">Previous Result was" "</string>
+    <string name="meters">Meters</string>
+    <string name="ok">OK</string>
+    <string name="zero_error">Please enter Weight and Speed</string>
+    <string name="new_event">New Event ": "Ass1Speed </string>
+    <string name="compare_online">Compare to Online Calculator</string>
+    <string name="joules">" "Joules":"</string>
+    <string name="Spat_calc">Spat Calculator</string>
+    <string name="equiv_free_fall">Equivilent Free Fall Height": "</string>
+    <string name="time_till_impact">Time till impact" : "</string>
+    <string name="energy_at_impact">Energy at impact" : "</string>
+    <string name="seconds">" "Seconds</string>
+    <string name="time">Time</string>
+    <string name="energy">Energy</string>
+    <string name="title_activity_splash">Splash</string>
+
+</resources>
